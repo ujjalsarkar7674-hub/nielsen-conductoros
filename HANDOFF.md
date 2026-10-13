@@ -121,15 +121,15 @@ There are **no build tools**, no Node dependencies, and no package managers requ
 ### 🔴 Day 3 (Oct 13 — SUBMISSION DAY) — TODO
 
 #### Step 1: Push to GitHub and Enable GitHub Pages ✅ PUSHED
-1. Repository pushed to: `https://github.com/kapilbhati2720/conductor-os`
+1. Repository pushed to: `https://github.com/ujjalsarkar7674-hub/nielsen-conductoros`
 2. **Action Required by you in browser (1 minute)**:
-   - Open: [github.com/kapilbhati2720/conductor-os/settings/pages](https://github.com/kapilbhati2720/conductor-os/settings/pages)
+   - Open: [github.com/ujjalsarkar7674-hub/nielsen-conductoros/settings/pages](https://github.com/ujjalsarkar7674-hub/nielsen-conductoros/settings/pages)
    - Under **Build and deployment** → **Branch**: Select `main` branch, folder `/ (root)` → Click **Save**.
-   - Your live URL is active at: `https://kapilbhati2720.github.io/conductor-os/prototype/`
+   - Your live URL is active at: `https://ujjalsarkar7674-hub.github.io/nielsen-conductoros/prototype/`
 
 #### Step 2: Generate QR Code ✅ COMPLETED
-- QR code automatically generated and saved to: [`submission/qr-code.png`](file:///d:/Neilser/submission/qr-code.png)
-- Direct link encoded: `https://kapilbhati2720.github.io/conductor-os/prototype/`
+- QR code automatically generated and saved to: [`submission/qr-code.png`](file:///C:/Users/UJJAL_SARKAR/Downloads/Neilson/conductor-os/submission/qr-code.png)
+- Direct link encoded: `https://ujjalsarkar7674-hub.github.io/nielsen-conductoros/prototype/`
 - Simply copy/drop this image into **Slide 14** of your deck!
 
 #### Step 3: Assemble Google Slides (30–40 min)

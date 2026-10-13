@@ -34,18 +34,19 @@
 │   ├── styles.css
 │   └── app.js
 └── submission/
-    └── slides-outline.md        ← Structure for Google Slides deck
+    ├── slides-outline.md        ← Structure for Google Slides deck
+    └── slides-content.md        ← Full copy-paste content for all 16 slides
 ```
 
 ## How to Continue on Another Laptop
-1. Open [HANDOFF.md](file:///d:/Neilser/HANDOFF.md) for the complete briefing, architecture, and step-by-step instructions.
-2. Open [prototype/index.html](file:///d:/Neilser/prototype/index.html) in any browser to test the live prototype.
+1. Open [HANDOFF.md](HANDOFF.md) for the complete briefing, architecture, and step-by-step instructions.
+2. Open [prototype/index.html](prototype/index.html) in any browser to test the live prototype.
 3. Everything is zero-dependency (vanilla HTML/CSS/JS) — no build steps or installs needed.
 
 ## Timeline
 | Day | Focus | Status |
 |-----|-------|--------|
 | Day 1 (Oct 9) | Research + Design Principles + Prototype v1 & v2 + User Obsession Redesign | ✅ Completed |
-| Day 2 (Oct 10) | High-fidelity UI polish + Sunlight Mode + Slide deck creation | 🔄 In Progress |
-| Day 3 (Oct 11) | GitHub Pages deployment + Presentation rehearsal + Submission | ⬜ Pending |
+| Day 2 (Oct 12) | Sunlight Mode + 1-Tap Mode + Mobile responsive + 16-slide deck content | ✅ Completed |
+| Day 3 (Oct 13) | GitHub Pages deployment (`ujjalsarkar7674-hub/nielsen-conductoros`) + Submission | ✅ Completed |
 

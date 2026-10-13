@@ -12,7 +12,7 @@
 
 **Subtext**:
 > Nielsen Product Design Internship — Brief 1
-> Kapil Bhati • October 2026
+> Ujjal Sarkar • October 2026
 
 **Visual**: Full-bleed background of a bus interior (blurred), with the phone prototype mockup centered and glowing.
 
@@ -298,8 +298,8 @@ TAP 1 (0.0s → 0.4s)         TAP 2 (0.4s → 1.0s)         TAP 3 (1.0s → 2.1s
 
 **Visual**: Large QR code (center, prominent) + phone mockup screenshot
 
-**QR Code links to**: `https://kapilbhati2720.github.io/conductor-os/prototype/`
-*(Add this QR code once GitHub Pages is live — use qr-code-generator.com)*
+**QR Code links to**: `https://ujjalsarkar7674-hub.github.io/nielsen-conductoros/prototype/`
+> 📎 QR code image is ready at: `submission/qr-code.png` — drop it directly into this slide.
 
 **Body (3 bullet guide)**:
 > 1. **Scan QR code** with your phone camera
@@ -352,13 +352,12 @@ TAP 1 (0.0s → 0.4s)         TAP 2 (0.4s → 1.0s)         TAP 3 (1.0s → 2.1s
 > Thank you — let's solve real problems together.
 
 **Body**:
-> **Kapil Bhati**
-> kapilrajbhati7@gmail.com
-> GitHub: github.com/kapilbhati2720
+> **Ujjal Sarkar**
+> GitHub: github.com/ujjalsarkar7674-hub
 
 **Links (large, clickable)**:
-> 🔗 **Live Prototype**: kapilbhati2720.github.io/conductor-os/prototype/
-> 📁 **GitHub Repo**: github.com/kapilbhati2720/conductor-os
+> 🔗 **Live Prototype**: ujjalsarkar7674-hub.github.io/nielsen-conductoros/prototype/
+> 📁 **GitHub Repo**: github.com/ujjalsarkar7674-hub/nielsen-conductoros
 
 **Closing line** (large, centered):
 > *"Every second saved is a station arrived on time."*
